@@ -1,6 +1,5 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: default
 ---
 # Akhil Baby Sarada
 Embeddded Product Design - Specialist | Media and Communication | IIoT | RDK | Linux Device Driver|
