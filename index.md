@@ -1,5 +1,3 @@
-# Akhil Baby Sarada
-**Embedded Software Engineer – Set Top Box | Embedded Linux | RDK Specialist**  
 Trivandrum, India 
 
 <div id="https://akhilbhas.github.io/cv/">
